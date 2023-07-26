@@ -1,4 +1,4 @@
-# Installation:
+# BurpSuitePro v2023.6.2 Installation:
 
     git clone https://github.com/xiv3r/BurpSuite-Pro-Latest.git
     cd BurpSuite-Pro-Latest
