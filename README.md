@@ -2,7 +2,7 @@
 
     git clone https://github.com/xiv3r/BurpSuite-Pro-Latest.git
     cd BurpSuite-Pro-Latest
-    sudo sh install.sh
+    sh install.sh
 
 # Run:
     Burp
