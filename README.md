@@ -18,11 +18,20 @@ Notes:
 
 
 
-
 ![Screenshot_20230708_091207](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/11a8fb20-5e9f-4dd6-a303-8cce6552a07a)
 
 
 
+
+#Note: 
+
+Non-Root License Install Type:
+
+    Burp
+    
+    java -jar loader.jar
+
+    
 
 
 
