@@ -1,11 +1,14 @@
-# BurpSuitePro v2023.6.2 Installation:
+# BurpSuitePro v2023.6.2
 
-    git clone https://github.com/xiv3r/BurpSuite-Pro-Latest.git
-    cd BurpSuite-Pro-Latest
-    sh install.sh
+- # Linux 
 
-# Run:
-    Burp
+      git clone https://github.com/xiv3r/BurpSuite-Pro-Latest.git
+      cd BurpSuite-Pro-Latest
+      sh install.sh
+
+- # Run:
+    
+      Burp
     
 
 Notes: 
@@ -14,26 +17,30 @@ Notes:
 3. Select Manual Activation.
 4. Copy License Request from BurpSuite_Pro and paste in Keygenerator.
 5. Copy license response from Keygenerator and paste in Burp Suite Pro, then next and Done.
-
-
-
-
 ![Screenshot_20230708_091207](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/11a8fb20-5e9f-4dd6-a303-8cce6552a07a)
-
-
-
-
-#Note: 
-
-Non-Root License Install Type:
-
-    Burp
-    
-    java -jar loader.jar
-
-    
-
 
 
 https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/91d1113f-45d1-4f35-9aca-49952356419b
 
+
+- # Windows
+
+      git clone https://github.com/xiv3r/BurpSuite-Pro-Latest.git
+      cd BurpSuite-Pro-Latest
+
+*Open powershell with an administrator premise*
+
+    powershell.exe -executionpolicy Unrestricted -F ".\install.ps1"
+
+
+NOTE - License Text:
+
+    licensed to xiv3r
+
+
+affter modify license just do the same as the video...
+and done.
+
+*install.ps1 will create a burp launcher, just run it every time you use it*
+
+    powershell.exe -executionpolicy Unrestricted -F ".\Burp_suite.ps1"
