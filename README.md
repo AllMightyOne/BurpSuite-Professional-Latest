@@ -1,4 +1,4 @@
-# BurpSuitePro v2023.6.2
+# BurpSuite Professional v2023 latest
 
 - # Linux 
 
