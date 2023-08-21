@@ -8,7 +8,7 @@
 
 - # Run:
     
-      Burp
+      sh Burp
     
 
 Notes: 
@@ -35,10 +35,10 @@ https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/91d1113f
 
 NOTE - License Text:
 
-    licensed to xiv3r
+    licensed to (your name)
 
 
-affter modify license just do the same as the video...
+After modify license just do the same as the video...
 and done.
 
 *install.ps1 will create a burp launcher, just run it every time you use it*
