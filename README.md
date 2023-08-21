@@ -3,7 +3,9 @@
 - # Linux 
 
       git clone https://github.com/xiv3r/BurpSuite-Pro-Latest.git
+  
       cd BurpSuite-Pro-Latest
+
       sh install.sh
 
 - # Run:
@@ -24,8 +26,13 @@ https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/91d1113f
 
 
 - # Windows
+  
+- install git on PowerShell 
 
+      winget install Git.Git
+  
       git clone https://github.com/xiv3r/BurpSuite-Pro-Latest.git
+  
       cd BurpSuite-Pro-Latest
 
 *Open powershell with an administrator premise*
@@ -33,7 +40,7 @@ https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/91d1113f
     powershell.exe -executionpolicy Unrestricted -F ".\install.ps1"
 
 
-NOTE - License Text:
+NOTE - License Text: 
 
     licensed to (your name)
 
