@@ -12,7 +12,7 @@
 
 - # Run:
     
-      sh Burp
+      sh BURPSUITE
     
 
 Notes: 
@@ -58,4 +58,4 @@ and done.
 
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\Burp_suite.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\BURPSUITE.ps1"
