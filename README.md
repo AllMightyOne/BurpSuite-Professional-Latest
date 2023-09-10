@@ -11,8 +11,10 @@
       sh install.sh
 
 - # Run:
-    
-      sh BURPSUITE
+
+      cd BurpSuite-Pro-Latest
+
+      sh ./BURPSUITE
     
 
 Notes: 
