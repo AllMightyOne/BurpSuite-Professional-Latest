@@ -28,8 +28,9 @@ Notes:
 
 5. Copy license response from Keygenerator and paste in Burp Suite Pro, then next and Done.
 
+![Screenshot_20231005_170257](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/388a9a07-e140-4953-b7a6-c688e4953d25)
 
-![Screenshot_20230708_091207](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/11a8fb20-5e9f-4dd6-a303-8cce6552a07a)
+![Screenshot_20231005_170336](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/012eab07-352e-4fe4-b6f7-9ab5a9ffff78)
 
 
 https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/91d1113f-45d1-4f35-9aca-49952356419b
