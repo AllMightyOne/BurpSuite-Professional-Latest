@@ -1,6 +1,6 @@
 # BurpSuite Professional v2023 latest
 
-- # Linux 
+- # kali | Ubuntu | Parrot | Debian 
 
       sudo apt update && sudo apt full-upgrade -y
 
@@ -33,10 +33,14 @@ Notes:
 ![Screenshot_20231005_170336](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/012eab07-352e-4fe4-b6f7-9ab5a9ffff78)
 
 
+
+- License Activation
+
+ 
 https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/91d1113f-45d1-4f35-9aca-49952356419b
 
 
-- # Windows
+- # Windows Installation
   
 - install git on PowerShell 
 
