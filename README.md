@@ -52,7 +52,7 @@ https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/91d1113f
 
 - *Open powershell with an administrator premise*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\install.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\windows-install.ps1"
 
 
 - NOTE - License Text: 
@@ -65,4 +65,4 @@ and done.
 
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\BURPSUITE.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\burpsuite_pro_latest.ps1"
