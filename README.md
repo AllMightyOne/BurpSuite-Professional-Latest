@@ -50,7 +50,15 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 
 ### Windows Installation
 
+- Install Git
 
+      winget install Git.Git
+  
+      git clone https://github.com/xiv3r/BurpSuite-Professional-Latest.git
+
+      cd BurpSuite-Professional-Latest
+
+  
 - *Open powershell with an administrator premise*
 
       powershell.exe -executionpolicy Unrestricted -F ".\install.ps1"
