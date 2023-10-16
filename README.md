@@ -8,6 +8,8 @@
 
 ### Kali | Ubuntu | Parrot | Debian 
 
+` run as nonroot`
+
       sudo apt update && sudo apt full-upgrade -y
 
       git clone https://github.com/xiv3r/BurpSuite-Professional-Latest.git
@@ -18,9 +20,8 @@
 
 ### Run:
 
-      cd BurpSuite-Professional-Latest
+      BurpSuite-Professional-Latest
 
-      sh ./BURPSUITE
     
 ![Screenshot_20231005_170257](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/388a9a07-e140-4953-b7a6-c688e4953d25)
 <br></br>
@@ -75,4 +76,4 @@ and done.
 
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\BurpSuite_Professional_Latest.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\BurpSuite-Professional-Latest.ps1"
