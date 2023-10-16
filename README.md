@@ -50,19 +50,10 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 
 ### Windows Installation
 
-  
-- install git on PowerShell 
-
-      winget install Git.Git
-  
-      git clone https://github.com/xiv3r/BurpSuite-Professional-Latest.git
-  
-      cd BurpSuite-Professional-Latest
-
 
 - *Open powershell with an administrator premise*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\windows-install.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\install.ps1"
 
 
 - NOTE - License Text: 
@@ -76,4 +67,4 @@ and done.
 
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\burpsuite_pro_latest.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\BurpSuite_Professional_Latest.ps1"
