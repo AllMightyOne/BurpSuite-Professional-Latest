@@ -1,7 +1,7 @@
 #!/bin/bash
 
     # Download BurpSuite Professional
-    echo 'Downloading Latest BurpSuite Professional Latest...'
+    echo 'Downloading BurpSuite Professional Latest...'
     curl "https://portswigger-cdn.net/burp/releases/download?product=pro&version=&type=jar" -o BurpSuite-Professional-Latest.jar
     
     # Execute Key Generator
