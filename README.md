@@ -6,9 +6,8 @@
 <br></br>
 
 
-### Kali | Ubuntu | Parrot | Debian 
+### Kali | Ubuntu | Parrot | Debian:
 
-` run as nonroot`
 
       sudo apt update && sudo apt full-upgrade -y
 
@@ -20,7 +19,7 @@
 
 ### Run:
 
-      BurpSuite-Professional-Latest
+      BurpSuite-Professional-Latest or ./BurpSuite-Professional-Latest
 
     
 ![Screenshot_20231005_170257](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/388a9a07-e140-4953-b7a6-c688e4953d25)
@@ -29,7 +28,7 @@
 
 <br></br>
 
-### License Activation:
+### Activation:
 
 
 1. Modify License String from loader like " license to XXXXXXX " e.g "license to xiv3r"
@@ -49,7 +48,7 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 <br>
 <br></br>
 
-### Windows Installation
+# Windows Installation:
 
 - Install Git
 
@@ -59,7 +58,8 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 
       cd BurpSuite-Professional-Latest
 
-  
+ ### Install:
+ 
 - *Open powershell with an administrator premise*
 
       powershell.exe -executionpolicy Unrestricted -F ".\install.ps1"
@@ -74,6 +74,14 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 and done.
 
 
+## Run:
+
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
       powershell.exe -executionpolicy Unrestricted -F ".\BurpSuite-Professional-Latest.ps1"
+
+
+<details><summary>Credits:</summary>
+      
+* `loader.jar` 👉 [h3110w0r1d](https://github.com/h3110w0r1d)
+</details>
