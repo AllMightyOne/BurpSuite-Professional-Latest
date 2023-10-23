@@ -83,5 +83,5 @@ and done.
 
 <details><summary>Credits:</summary>
       
-* `loader.jar` 👉 [h3110w0r1d](https://github.com/h3110w0r1d)
+* `loader.jar` 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
 </details>
