@@ -19,7 +19,7 @@
 
 ### Run:
 
-      BurpSuite-Professional-Latest or ./BurpSuite-Professional-Latest
+      BURPSUITE or ./BURPSUITE
 
     
 ![Screenshot_20231005_170257](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/388a9a07-e140-4953-b7a6-c688e4953d25)
@@ -78,7 +78,7 @@ and done.
 
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\BurpSuite-Professional-Latest.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\BURPSUITE.ps1"
 
 
 <details><summary>Credits:</summary>
