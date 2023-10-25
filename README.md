@@ -48,7 +48,7 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 <br>
 <br></br>
 
-# Windows Installation:
+# <h1 align="center"> Windows Installation: </h1>
 
 - Install Git
 
