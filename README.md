@@ -6,7 +6,7 @@
 <br></br>
 
 
-### Kali | Ubuntu | Parrot | Debian:
+# <h1 align="center">Linux Installation</h1>
 
 
       sudo apt update && sudo apt full-upgrade -y
