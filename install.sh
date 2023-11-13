@@ -8,7 +8,7 @@
     rm install.ps1
     rm -rf .git
     cd /usr/share/burpsuitepro/
-	rm burpsuite.jar
+    rm burpsuite.jar
     
     html=$(curl -s https://portswigger.net/burp/releases)
     version=$(echo $html | grep -Po '(?<=/burp/releases/professional-community-)[0-9]+\-[0-9]+\-[0-9]+' | head -n 1)
