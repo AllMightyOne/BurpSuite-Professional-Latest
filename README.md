@@ -15,16 +15,23 @@
   
       cd BurpSuite-Professional-Latest
 
-      sh install.sh
+      sudo sh install.sh
 
 ### Run:
 
-      BURPSUITE or ./BURPSUITE
+      burpsuitepro or ./burpsuitepro
 
+<br>
+
+![Screenshot_20231114_064915](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/ceb58693-5f76-422b-99a9-8f99d9a699f9)
     
-![Screenshot_20231005_170257](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/388a9a07-e140-4953-b7a6-c688e4953d25)
-<br></br>
-![Screenshot_20231005_170336](https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/012eab07-352e-4fe4-b6f7-9ab5a9ffff78)
+<br>
+
+![Screenshot_20231114_064900](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/5161fe3d-91f7-42d4-ae2a-36f9b2d1baf7)
+
+<br>
+
+![Screenshot_20231114_065058](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/1dd41469-eed1-4b38-bfb3-d1b0cd835a20)
 
 <br></br>
 
@@ -50,6 +57,12 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 
 # <h1 align="center"> Windows Installation: </h1>
 
+<br>
+
+* Changing java JDK version:
+
+      sudo update-alternatives --config java
+   
 - Install Git
 
       winget install Git.Git
@@ -78,7 +91,7 @@ and done.
 
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\BURPSUITE.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\burpsuitepro.ps1"
 
 
 <details><summary>Credits:</summary>
