@@ -19,7 +19,7 @@
 
 ### Run:
 
-      burpsuitepro or ./burpsuitepro
+      burpsuite
 
 <br>
 
@@ -91,7 +91,7 @@ and done.
 
 - *install.ps1 will create a burp launcher, just run it every time you use it*
 
-      powershell.exe -executionpolicy Unrestricted -F ".\burpsuitepro.ps1"
+      powershell.exe -executionpolicy Unrestricted -F ".\burpsuite.ps1"
 
 
 <details><summary>Credits:</summary>
