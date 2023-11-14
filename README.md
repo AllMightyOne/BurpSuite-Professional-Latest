@@ -23,15 +23,7 @@
 
 <br>
 
-![Screenshot_20231114_064915](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/ceb58693-5f76-422b-99a9-8f99d9a699f9)
-    
-<br>
-
-![Screenshot_20231114_064900](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/5161fe3d-91f7-42d4-ae2a-36f9b2d1baf7)
-
-<br>
-
-![Screenshot_20231114_065058](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/1dd41469-eed1-4b38-bfb3-d1b0cd835a20)
+![Screenshot_20231114_083103](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/f2f3e34a-22b3-41e3-80d3-4ee4fc895e4f)
 
 <br></br>
 
