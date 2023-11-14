@@ -45,46 +45,42 @@
 https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f35-9aca-49952356419b
 
 <br>
+
+### Changing java JDK version:
+
+      sudo update-alternatives --config java
+
 <br></br>
 
 # <h1 align="center"> Windows Installation: </h1>
 
 <br>
 
-* Changing java JDK version:
 
-      sudo update-alternatives --config java
    
-- Install Git
+- Copy the downloaded files to `C:\Burp`
 
-      winget install Git.Git
-  
-      git clone https://github.com/xiv3r/BurpSuite-Professional-Latest.git
+- Make new directory `Burp` in `C Drive` for faster access.
 
-      cd BurpSuite-Professional-Latest
+- Open `Powershell` and execute below command to set Script Execution Policy.
 
- ### Install:
+      Set-ExecutionPolicy -ExecutionPolicy bypass -Scope process
+
+- Now Execute Windows_Setup.ps1 file in Powershell to Complete Installation.
+
+      ./install.ps1
  
-- *Open powershell with an administrator premise*
+- Change the icon of `Burp-Suite-Pro.vbs` to the given icon 
 
-      powershell.exe -executionpolicy Unrestricted -F ".\install.ps1"
+- Create a shortcut to Desktop. Right Click over `Burp-Suite-Pro.vbs` Go to Shortcut tab, and below there is `Change Icon` tab
+	
+- Click there and choose the `burp-suite.ico` from `C:\Burp\`
 
+   ![image](https://user-images.githubusercontent.com/29830064/230825172-16c9cfba-4bca-46a4-86df-b352a4330b12.png)
 
-- NOTE - License Text: 
+- For Start Menu Entry, copy `Burp-Suite-Pro.vbs` file to 
 
-      licensed to (your name)
-
-
-- After modify license just do the same as the video...
-and done.
-
-
-## Run:
-
-- *install.ps1 will create a burp launcher, just run it every time you use it*
-
-      powershell.exe -executionpolicy Unrestricted -F ".\burpsuite.ps1"
-
+      C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
 
 <details><summary>Credits:</summary>
       
