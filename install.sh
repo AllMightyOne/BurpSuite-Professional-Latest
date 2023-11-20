@@ -7,6 +7,7 @@
     cp burp_suite.ico /usr/share/burpsuitepro/
     rm install.ps1
     rm -rf .git
+    cd /usr/share/burpsuitepro/
     html=$(curl -s https://portswigger.net/burp/releases)
     version=$(echo $html | grep -Po '(?<=/burp/releases/professional-community-)[0-9]+\-[0-9]+\-[0-9]+' | head -n 1)
     Link="https://portswigger-cdn.net/burp/releases/download?product=pro&version=&type=jar"
