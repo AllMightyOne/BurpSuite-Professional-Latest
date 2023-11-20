@@ -24,7 +24,7 @@
 
 ### Run:
 
-      burpsuite
+      burpsuitepro
       
 
 <br></br>
