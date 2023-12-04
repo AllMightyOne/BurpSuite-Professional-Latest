@@ -9,7 +9,15 @@
 
 ##### 👉 [Overview](https://portswigger.net/burp/pro)
 <br></br>
+<details><summary>Requirements:</summary>
 
+- Curl
+	
+- Wget
+  
+- Openjdk-22-jdk
+
+</details>
 
 # <h1 align="center">Linux Installation</h1>
 
@@ -22,7 +30,7 @@
       
       sudo sh install.sh
        
-### Run[root]:
+- Run[root]:
 
       burpsuitepro
       
