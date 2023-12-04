@@ -19,14 +19,20 @@
       git clone https://github.com/xiv3r/BurpSuite-Professional-Latest.git
   
       cd BurpSuite-Professional-Latest
-
+      
       sudo sh install.sh
-
-### Run:
+       
+### Run[root]:
 
       burpsuitepro
       
 
+- None root:
+
+      burpsuitepro
+
+      java -jar /usr/share/loader.jar
+  
 <br></br>
 
 ### Activation:
