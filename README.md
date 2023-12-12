@@ -32,12 +32,18 @@
        
 - Run[root]:
 
-      burpsuitepro
+      sudo burpsuitepro
       
 
 - None root:
 
+Main Terminal:
+
       burpsuitepro
+  
+New terminal:
+
+      cd BurpSuite-Professional-Latest
 
       java -jar /usr/share/loader.jar
   
