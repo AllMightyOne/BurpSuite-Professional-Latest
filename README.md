@@ -88,7 +88,7 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 
       Set-ExecutionPolicy -ExecutionPolicy bypass -Scope process
 
-- Now Execute Windows_Setup.ps1 file in Powershell to Complete Installation.
+- Now Execute install.ps1 file in Powershell to Complete Installation.
 
       ./install.ps1
  
