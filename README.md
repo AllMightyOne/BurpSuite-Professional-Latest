@@ -11,41 +11,38 @@
 <br></br>
 <details><summary>Requirements:</summary>
 
-- Curl
-	
-- Wget
-  
-- Openjdk-22-jdk
+  `apt install openjdk-17-jdk openjdk-22-jdk openjdk-17-jre openjdk-22-jre -y`
 
 </details>
 
 # <h1 align="center">Linux Installation</h1>
 
 
-      sudo apt update && sudo apt full-upgrade -y
+    sudo apt update && sudo apt full-upgrade -y
 
-      git clone https://github.com/xiv3r/BurpSuite-Professional-Latest.git
-  
-      cd BurpSuite-Professional-Latest
+    git clone https://github.com/xiv3r/BurpSuite-Professional-Latest.git
+
+    cd BurpSuite-Professional-Latest
       
-      sudo sh install.sh
+    sudo sh install.sh
+
        
-- Run[root]:
-
-      sudo burpsuitepro
+#### Root Terminal:
+     
+    burpsuitepro
       
 
-- None root:
+### None Root:
 
 Main Terminal:
 
-      burpsuitepro
+    cd BurpSuite-Professional-Latest
+      
+    burpsuitepro
   
-New terminal:
+Ctrl+N (New terminal):
 
-      cd BurpSuite-Professional-Latest
-
-      java -jar /usr/share/loader.jar
+    java -jar /usr/share/loader.jar
   
 <br></br>
 
