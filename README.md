@@ -27,14 +27,12 @@
     sudo sh install.sh
 
        
-#### Root Terminal:
+### Root:
      
     burpsuitepro
       
 
 ### None Root:
-
-Main Terminal:
 
     cd BurpSuite-Professional-Latest
       
