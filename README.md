@@ -37,10 +37,18 @@
     cd BurpSuite-Professional-Latest
       
     burpsuitepro
+    
   
 Ctrl+N (New terminal):
 
     java -jar /usr/share/loader.jar
+
+
+### Update:
+
+    sudo update.sh
+
+    
   
 <br></br>
 
