@@ -9,7 +9,7 @@
 
 ##### 👉 [Overview](https://portswigger.net/burp/pro)
 <br></br>
-<details><summary>Requirements:</summary>
+<details><summary>  Requirements:</summary>
 
 <br>
 - Install:
@@ -41,12 +41,12 @@
     sudo sh install.sh
 
        
-### Root:
+### Run:
      
     burpsuitepro
       
 
-### None Root:
+### None Root Install:
 
     cd BurpSuite-Professional-Latest
       
