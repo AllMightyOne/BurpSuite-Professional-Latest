@@ -96,9 +96,9 @@ https://github.com/xiv3r/BurpSuite-Pro-Latest/assets/117867334/91d1113f-45d1-4f3
 
 
    
-- Copy the downloaded files to `C:\Burp`
-
 - Make new directory `Burp` in `C Drive` for faster access.
+
+- Copy the downloaded files to `C:\Burp`
 
 - Open `Powershell` and execute below command to set Script Execution Policy.
 
