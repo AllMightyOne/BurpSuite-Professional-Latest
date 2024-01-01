@@ -59,7 +59,7 @@
 
 ### Update:
 
-    sudo update.sh
+    sudo bash update.sh
 
     
   
