@@ -66,7 +66,7 @@
 
 ### Update (Optional):
 
-    sudo bash update.sh
+    curl https://raw.githubusercontent.com/xiv3r/BurpSuite-Professional-Latest/main/update.sh | sudo bash
 
     
   
