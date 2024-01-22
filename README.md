@@ -64,7 +64,7 @@
     java -jar /usr/share/loader.jar
 
 
-### Update:
+### Update (Optional):
 
     sudo bash update.sh
 
