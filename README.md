@@ -1,13 +1,14 @@
-# <h1 align="center"> BurpSuite Professional v2023 latest </h1>
-<p align="center"> Burp Suite Professional is the web security tester's toolkit of choice. Use it to automate repetitive testing tasks - then dig deeper with its expert-designed manual and semi-automated security testing tools. Burp Suite Professional can help you to test for OWASP Top 10 vulnerabilities - as well as the very latest hacking techniques. Advanced manual and automated features empower users to find lurking vulnerabilities more quickly. Burp Suite is designed and used by the industry's best. </p>
-
-
-<br>
-
 ![Screenshot_20231114_083103](https://github.com/xiv3r/BurpSuite-Professional-Latest/assets/117867334/f2f3e34a-22b3-41e3-80d3-4ee4fc895e4f)
 
+# <p align="center"> Burpsuite Professional v2023 latest </p>
 
-##### 👉 [Overview](https://portswigger.net/burp/pro)
+<h1 align="center"> Burp Suite Professional is the web security tester's toolkit of choice. Use it to automate repetitive testing tasks - then dig deeper with its expert-designed manual and semi-automated security testing tools. Burp Suite Professional can help you to test for OWASP Top 10 vulnerabilities - as well as the very latest hacking techniques. Advanced manual and automated features empower users to find lurking vulnerabilities more quickly. Burp Suite is designed and used by the industry's best.</h1>
+
+<h1 align="center">
+
+[Overview](https://portswigger.net/burp/pro)
+ </h1>
+ 
 <br></br>
 <details><summary>  Requirements:</summary>
 
@@ -17,11 +18,17 @@
   ```
   apt install curl
 
+  apt install git
+
   apt install openjdk-17-jdk
-  
+
+  apt install openjdk-18-jdk
+
   apt install openjdk-22-jdk
   
   apt install openjdk-17-jre
+
+  apt install openjdk-18-jre
   
   apt install openjdk-22-jre
 
