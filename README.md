@@ -14,23 +14,23 @@
 <details><summary>  Requirements:</summary>
 
 <br>
+
 - Install:
 
   ```
-  apt install curl
-
-  apt install git
+  apt install curl git -y
 
   apt install openjdk-17-jdk
-
+  apt install openjdk-17-jdk-headless
+  
   apt install openjdk-18-jdk
-
+  apt install openjdk-18-headless
+  
   apt install openjdk-22-jdk
+  apt install openjdk-22-headless
   
   apt install openjdk-17-jre
-
   apt install openjdk-18-jre
-  
   apt install openjdk-22-jre
 
   ```
