@@ -65,7 +65,7 @@
     java -jar /usr/share/loader.jar
 
 
-### Update (Optional):
+### To Update (Optional):
 
     curl https://raw.githubusercontent.com/xiv3r/BurpSuite-Professional-Latest/main/update.sh | sudo bash
 
