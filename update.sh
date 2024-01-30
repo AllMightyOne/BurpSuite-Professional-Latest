@@ -1,6 +1,7 @@
 #!/bin/bash
 
    echo 'Removing Old Files...'
+   rm -rf .BurpSuite
    rm -rf /home/*/BurpSuite-Professional-Latest
    rm -rf /usr/share/burpsuitepro
    rm -rf /bin/burpsuitepro
