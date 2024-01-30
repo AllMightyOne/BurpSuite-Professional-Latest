@@ -7,7 +7,7 @@
 
    sleep 1s &
    echo 'Downloading Burpsuite Professional...'
-   git clone https://github.com/xiv3r/BurpSuite-Professional-Late>
+   git clone https://github.com/xiv3r/BurpSuite-Professional-Latest
    cd BurpSuite-Professional-Latest
    chmod +x install.sh
    bash install.sh
